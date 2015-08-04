@@ -7,7 +7,8 @@ $ apt-get install expect
 ##Configure
 replace yourUserName and yourPassword with your username and password
 
-bbsu@ptt.cc for UTF-8
+bbsu@ptt.cc for UTF-8 (Default)
+
 bbs@ptt.cc for BIG5
 
 ##Usage
