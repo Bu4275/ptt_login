@@ -1,7 +1,7 @@
 #ptt_login
 Script for logining ptt.cc with ssh
 
-##Install (On ubuntu)
+##Installation (On ubuntu)
 $ apt-get install expect
 
 ##Configure
